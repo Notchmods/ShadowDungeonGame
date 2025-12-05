@@ -1,0 +1,25 @@
+f6b57b4 - collint, 10 minutes ago : Final commit: Fixed bugs related to concurrent issues and polish up comments
+1a213f5 - collint, 75 minutes ago : Fixed bugs: FireBall will keep moving even after enemy is dead
+1f27cd8 - collint, 2 hours ago : Modified javadocs to include every public variables, methods and constructor within the game
+38d8e6c - collint, 5 hours ago : Fixed bugs: Lack of coins deduction after purchase from store
+0bc9cbf - collint, 4 days ago : Added some description into JavaDoc
+68f40bb - collint, 10 days ago : Fixed bugs of Ammo moving when pausing
+730c20b - collint, 10 days ago : Fixed timing issues when collecting, purchasing and shooting at items
+0f50b88 - collint, 12 days ago : Implemented weapons feature and some of the store menu feature:(restart by pressing P)
+9a6610f - collint, 12 days ago : Implemented weapons feature and some of the store menu feature:(restart by pressing P)
+2a5fd6e - collint, 12 days ago : Implemented pausing feature
+2725fd0 - collint, 12 days ago : Ensure player is able to shoot at the direction where the cursor is pointing at
+7904055 - collint, 12 days ago : Fix the enemy shooting mechanism, ensuring that it's unable to pass through obstacles
+d89e43a - collint, 13 days ago : Player takes damage when projectile hits it
+f15fa6d - collint, 13 days ago : Implemented enemy aiming AI
+3a9f392 - collint, 13 days ago : Implemented health system to the enemies
+4ebba46 - collint, 13 days ago : Ensure that when projectile touches obstacle it dissapears
+b9aa545 - collint, 13 days ago : Completed the basket features
+31c26ae - collint, 13 days ago : Bug fixed: Patrolling issues at battleRoomB
+ad5a66f - collint, 2 weeks ago : Implementation of objects into the scene
+f429b0e - collint, 2 weeks ago : Implemented shooting feature on player
+4236e9b - collint, 2 weeks ago : Added the character feature into the game
+051e87e - collint, 2 weeks ago : Implemented the marines and robots description in the prep room
+93a7dd5 - collint, 2 weeks ago : Added the patrolling feature to keyBulletKin
+ebae5c3 - collint, 2 weeks ago : Initialize different project 2 that has its error fixed
+851f648 - collint, 2 weeks ago : Initial commit for project 2B
